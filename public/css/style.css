@@ -1,0 +1,29 @@
+.success {
+    background: url(../images/tick.png) no-repeat scroll 15px 15px #EEF4D4;
+    background-size: 25px;
+    border: 1px solid #8FAD3D;
+    color: #596C26;
+    font-size: 13px;
+    line-height: 24px;
+    font-weight: normal;
+    font-family: Arial;
+    margin-bottom: 30px;
+    padding: 15px 15px 15px 80px;
+    position: relative;
+    width: 50%;
+}
+
+.failed {
+    background: url(../images/cross.png) no-repeat scroll 15px 15px #f4d4d4;
+    background-size: 25px;
+    border: 1px solid #eb6363;
+    color: #6c2626;
+    font-size: 13px;
+    line-height: 24px;
+    font-weight: normal;
+    font-family: Arial;
+    margin-bottom: 30px;
+    padding: 15px 15px 15px 80px;
+    position: relative;
+    width: 50%;
+}

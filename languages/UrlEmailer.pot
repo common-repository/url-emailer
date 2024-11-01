@@ -1,0 +1,150 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: URL Emailer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-22 11:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: UrlEmailer"
+
+#: admin/class.admin.html.php:54
+msgid ""
+"Add recipient email address. You can use multiple addresses separated by "
+"comma and override this by using the following URL parameter"
+msgstr ""
+
+#: admin/class.admin.html.php:79
+msgid "An example URL could be like"
+msgstr ""
+
+#: admin/class.admin.html.php:78
+msgid "Available keywords"
+msgstr ""
+
+#: url-emailer.php:53
+msgid "Basic settings"
+msgstr ""
+
+#: url-emailer.php:64
+msgid "BCC email"
+msgstr ""
+
+#: admin/class.admin.html.php:45
+msgid ""
+"BCC recipient email address. You can use multiple addresses separated by "
+"comma"
+msgstr ""
+
+#: url-emailer.php:76
+msgid "Confirmation box"
+msgstr ""
+
+#: admin/class.admin.html.php:80
+msgid "Do not forget to add the following shortcode to yourpage"
+msgstr ""
+
+#: admin/class.admin.html.php:39
+msgid ""
+"Email sender name. You can override this by using the following URL parameter"
+msgstr ""
+
+#: admin/class.admin.html.php:48
+msgid ""
+"Email subject. You can use keywords and override this by using the following "
+"URL parameter"
+msgstr ""
+
+#: url-emailer.php:58
+msgid "From email"
+msgstr ""
+
+#: url-emailer.php:55
+msgid "From name"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://trader-tools.net/url-emailer-documentation/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/url-emailer"
+msgstr ""
+
+#: admin/class.admin.html.php:81
+msgid "If you like this plugin"
+msgstr ""
+
+#: url-emailer.php:70
+msgid "Message"
+msgstr ""
+
+#: url-emailer.php:73
+msgid "Password"
+msgstr ""
+
+#: admin/class.admin.html.php:42
+msgid ""
+"Sender email address. You can use %site_admin_email% keyword and override "
+"this by using the following URL parameter"
+msgstr ""
+
+#: admin/class.admin.html.php:57
+msgid "Show email success or error message on yourpage"
+msgstr ""
+
+#: includes/class.public.html.php:11
+msgid "Sorry something went wrong. Could not send email"
+msgstr ""
+
+#: url-emailer.php:67
+msgid "Subject"
+msgstr ""
+
+#: includes/class.public.html.php:8
+msgid "The email has been send successfully"
+msgstr ""
+
+#. Author of the plugin
+msgid "Timo Kosiol"
+msgstr ""
+
+#: url-emailer.php:61
+msgid "To email"
+msgstr ""
+
+#. Name of the plugin
+msgid "URL Emailer"
+msgstr ""
+
+#: url-emailer.php:81
+msgid "URL Emailer Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"With URL Emailer you can easily and quickly send emails when a web page is "
+"accessed or loaded. With the help of various URL parameters such as "
+"recipient, subject, etc., the email delivery can be fully customized."
+msgstr ""
+
+#: admin/class.admin.html.php:77
+msgid ""
+"With URL Emailer you can easily and quickly send emails when a web page is "
+"accessed. With the help of various URL parameters such as recipient, subject,"
+" etc., the email delivery can be customized. For a detailed description"
+msgstr ""
+
+#: admin/class.admin.html.php:51
+msgid ""
+"You can use a password to add extra security. In this case add the following "
+"URL parameter"
+msgstr ""
